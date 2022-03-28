@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GetMeTechy
-- 👀 I’m interested in analytics and python.
+- 👀 I’m interested in analytics and Python.
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...tbd

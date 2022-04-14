@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GetMeTechy
+- 👋 Hi, I’m @GetMeTechie
 - 👀 I’m interested in analytics and Python.
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on anything.

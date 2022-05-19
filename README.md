@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GetMeTechie
-- 👀 I’m interested in analytics and Python.
-- 🌱 I’ve been doind freelnce analytics for about three years.
+- 👀 I’m interested in Analytics, SQL, R, Python.
+- 🌱 I’ve been doing freelance analytics for about 5 years.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: hello@GetMeTechie.com - No spam please.
 
